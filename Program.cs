@@ -40,12 +40,25 @@ namespace Maths
         static void Main()
         {   
             Calculator cTwo = new Calculator();
-            cTwo[0] = 2.4;
-            cTwo[1] = 1.2;
+            cTwo[0] = 2.4F;
+            cTwo[1] = 1.2F;
 
                 for(int i = 0; i < 2; i++)
-                Console.WriteLine(Double.Parse(cTwo[i].ToString()));
-                
+                try 
+                {
+                    Double.Parse(cTwo[i].ToString());
+                     
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("The format is incorrect");
+                }    
+                catch (OverflowException)
+                {
+                    Console.WriteLine("The stack has overflowed");
+                }
+
+                cTwo.calcFloat((cTwo[0]), cTwo[1]);
 
 
         }
