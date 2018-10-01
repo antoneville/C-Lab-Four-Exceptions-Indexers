@@ -1,0 +1,10 @@
+C:\projects\C-Lab-Four-Exceptions-Indexers\obj\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.csproj.CoreCompileInputs.cache
+C:\projects\C-Lab-Four-Exceptions-Indexers\obj\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.AssemblyInfoInputs.cache
+C:\projects\C-Lab-Four-Exceptions-Indexers\obj\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.AssemblyInfo.cs
+C:\projects\C-Lab-Four-Exceptions-Indexers\bin\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.deps.json
+C:\projects\C-Lab-Four-Exceptions-Indexers\bin\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.runtimeconfig.json
+C:\projects\C-Lab-Four-Exceptions-Indexers\bin\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.runtimeconfig.dev.json
+C:\projects\C-Lab-Four-Exceptions-Indexers\bin\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.dll
+C:\projects\C-Lab-Four-Exceptions-Indexers\bin\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.pdb
+C:\projects\C-Lab-Four-Exceptions-Indexers\obj\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.dll
+C:\projects\C-Lab-Four-Exceptions-Indexers\obj\Debug\netcoreapp2.0\C-Lab-Four-Exceptions-Indexers.pdb
